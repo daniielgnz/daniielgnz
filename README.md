@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniielgnz
 - 👀 I’m interested in create awesome and difficult projects
-- 🌱 I’m currently learning new languages 
+- 🌱 I’m currently learning new programming languages
 - 💞️ i would like collaborate with other users 
 
 
